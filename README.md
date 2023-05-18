@@ -11,9 +11,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SalvadorTyler/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   - [Network-File-Shares-and-Permissions](https://github.com/SalvadorTyler/Network-File-Shares-and-Permissions)
   - [Building-Intuition-for-DNS](https://github.com/SalvadorTyler/Building-Intuition-for-DNS)
- -  <b>Virtual Private Network(VPN)</b>
-  - [VPN-Setup](https://github.com/SalvadorTyler/VPN-setup)
-  - [VPN-Usuage](https://github.com/SalvadorTyler/VPN-Usage)
+-  <b>Virtual Private Network(VPN)</b>
+      - [VPN-Setup](https://github.com/SalvadorTyler/VPN-setup)
+      - [VPN-Usuage](https://github.com/SalvadorTyler/VPN-Usage)
 
 <h2>🤳Connect with me:</h2>
 
