@@ -13,6 +13,7 @@
   - [Building-Intuition-for-DNS](https://github.com/SalvadorTyler/Building-Intuition-for-DNS)
  -  <b>Virtual Private Network(VPN)</b>
   - [VPN-Setup](https://github.com/SalvadorTyler/VPN-setup)
+  - [VPN-Usuage](https://github.com/SalvadorTyler/VPN-Usage)
 
 <h2>🤳Connect with me:</h2>
 
